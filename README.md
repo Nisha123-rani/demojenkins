@@ -1,2 +1,2 @@
-# demojenkins test2
-jenkins demo
+# demo jobforjenkins
+jenkins demo using git plugin
